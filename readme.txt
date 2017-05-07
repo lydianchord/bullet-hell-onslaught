@@ -27,4 +27,4 @@ Godot game engine (https://godotengine.org)
 
 The sprites are based on ones I made for a worse bullet hell game I programmed a while ago 
 Listen to this game's music here: https://soundcloud.com/lydianchord/bullet-hell-onslaught
-Check out the source code and assets here: https://github.com/ahuanguchi/bullet-hell-onslaught
+Check out the source code and assets here: https://github.com/lydianchord/bullet-hell-onslaught
